@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers
+gradio
+Pillow
+nltk
+rouge-score
+rouge
+pycocoevalcap
+tqdm
+
+
